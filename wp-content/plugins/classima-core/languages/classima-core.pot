@@ -1,0 +1,1662 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Classima Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-09 07:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: elementor/listing-store-list/view.php:13
+#, php-format
+msgid "%s Ad"
+msgstr ""
+
+#: elementor/listing-store-list/view.php:13
+#, php-format
+msgid "%s Ads"
+msgstr ""
+
+#: elementor/pricing-box/class.php:39
+msgid "--Select--"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:24
+#: elementor/listing-category-box/class.php:23
+#: elementor/listing-grid/class.php:23 elementor/listing-isotope/class.php:22
+#: elementor/listing-slider/class.php:22
+#: elementor/listing-store-grid/class.php:21
+msgid "1 Col"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:150
+#: elementor/listing-slider/class.php:283 elementor/testimonial-2/class.php:103
+msgid "1 Second"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:25
+#: elementor/listing-category-box/class.php:24
+#: elementor/listing-grid/class.php:24 elementor/listing-isotope/class.php:23
+#: elementor/listing-slider/class.php:23
+#: elementor/listing-store-grid/class.php:22
+msgid "2 Col"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:149
+#: elementor/listing-slider/class.php:282 elementor/testimonial-2/class.php:102
+msgid "2 Seconds"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:26
+#: elementor/listing-category-box/class.php:25
+#: elementor/listing-grid/class.php:25 elementor/listing-isotope/class.php:24
+#: elementor/listing-slider/class.php:24
+#: elementor/listing-store-grid/class.php:23
+msgid "3 Col"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:148
+#: elementor/listing-slider/class.php:281 elementor/testimonial-2/class.php:101
+msgid "3 Seconds"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:27
+#: elementor/listing-category-box/class.php:26
+#: elementor/listing-grid/class.php:26 elementor/listing-isotope/class.php:25
+#: elementor/listing-slider/class.php:25
+#: elementor/listing-store-grid/class.php:24
+msgid "4 Col"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:147
+#: elementor/listing-slider/class.php:280 elementor/testimonial-2/class.php:100
+msgid "4 Seconds"
+msgstr ""
+
+#: elementor/listing-slider/class.php:26
+msgid "5 Col"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:146
+#: elementor/listing-slider/class.php:279 elementor/testimonial-2/class.php:99
+msgid "5 Seconds"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:28
+#: elementor/listing-category-box/class.php:27
+#: elementor/listing-grid/class.php:27 elementor/listing-isotope/class.php:26
+#: elementor/listing-slider/class.php:27
+#: elementor/listing-store-grid/class.php:25
+msgid "6 Col"
+msgstr ""
+
+#: elementor/accordian/class.php:17
+msgid "Accordian"
+msgstr ""
+
+#: elementor/accordian/class.php:68
+msgid "Active Item Background"
+msgstr ""
+
+#: elementor/listing-category-box/view-1.php:29
+msgid "Ad"
+msgid_plural "Ads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/sidebar-generator/init.php:51
+msgid "Add"
+msgstr ""
+
+#: elementor/accordian/class.php:32 elementor/testimonial-2/class.php:38
+msgid "Add as many items as you want"
+msgstr ""
+
+#: elementor/app-banner/class.php:68
+msgid "Add Image"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:42
+msgid "Add New Sidebar"
+msgstr ""
+
+#: elementor/app-banner/class.php:73
+msgid "Add Shape"
+msgstr ""
+
+#: elementor/contact/class.php:32
+msgid "Address"
+msgstr ""
+
+#: elementor/listing-term-list/class.php:113
+msgid "Ajax load for Category / Location<br> to increase PageSpeed."
+msgstr ""
+
+#: elementor/title-animated/class.php:56
+msgid "Alignment"
+msgstr ""
+
+#: elementor/listing-grid/class.php:66 elementor/listing-list/class.php:55
+#: elementor/listing-slider/class.php:77
+msgid "All"
+msgstr ""
+
+#: elementor/listing-grid/class.php:35 elementor/listing-isotope/class.php:39
+#: elementor/listing-list/class.php:25 elementor/listing-slider/class.php:41
+#: elementor/post/class.php:24
+msgid "All Categories"
+msgstr ""
+
+#: elementor/title-animated/class.php:76
+msgid "Animation Options"
+msgstr ""
+
+#: elementor/counter/class.php:89
+msgid "Animation Speed"
+msgstr ""
+
+#: elementor/counter/class.php:96
+msgid "Animation Steps"
+msgstr ""
+
+#: elementor/app-banner/class.php:17
+msgid "App Banner"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:79
+msgid "Are you sure you want to remove this custom sidebar"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:85
+#: elementor/listing-category-slider/class.php:79
+msgid "Ascending"
+msgstr ""
+
+#: elementor/post/class.php:130 elementor/post/class.php:176
+msgid "Author"
+msgstr ""
+
+#: elementor/post/class.php:75
+msgid "Author Display"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:125
+#: elementor/listing-slider/class.php:258 elementor/testimonial-2/class.php:78
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:144
+#: elementor/listing-slider/class.php:277 elementor/testimonial-2/class.php:97
+msgid "Autoplay Interval"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:159
+#: elementor/listing-slider/class.php:292 elementor/testimonial-2/class.php:112
+msgid "Autoplay Slide Speed"
+msgstr ""
+
+#: elementor/app-banner/class.php:119 elementor/cta/class.php:110
+#: elementor/listing-ad-type/class.php:202 elementor/listing-grid/class.php:257
+#: elementor/listing-isotope/class.php:185 elementor/listing-list/class.php:182
+#: elementor/listing-location-box/class.php:102
+#: elementor/listing-location-box/class.php:109
+#: elementor/listing-location-box-2/class.php:102
+#: elementor/listing-location-box-2/class.php:109
+#: elementor/listing-slider/class.php:320 elementor/post/class.php:112
+#: elementor/pricing-box/class.php:138
+msgid "Background"
+msgstr ""
+
+#: inc/post-meta.php:121 elementor/info-box/class.php:103
+msgid "Background Color"
+msgstr ""
+
+#: inc/post-meta.php:120
+msgid "Background Image"
+msgstr ""
+
+#: inc/post-meta.php:86
+msgid "Banner"
+msgstr ""
+
+#: inc/post-meta.php:131
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/post-meta.php:126
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/post-meta.php:116
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/post-meta.php:106
+msgid "Banner Search"
+msgstr ""
+
+#: elementor/info-box/class.php:42
+msgid "Block Number"
+msgstr ""
+
+#: elementor/listing-location-box/class.php:91
+#: elementor/listing-location-box-2/class.php:91
+msgid "Box Height"
+msgstr ""
+
+#: inc/post-meta.php:96
+msgid "Breadcrumb"
+msgstr ""
+
+#: elementor/listing-search/class.php:102 elementor/post/class.php:184
+#: elementor/pricing-box/class.php:163 elementor/pricing-box/class.php:205
+msgid "Button"
+msgstr ""
+
+#: elementor/listing-search/class.php:72
+msgid "Button Background"
+msgstr ""
+
+#: elementor/app-banner/class.php:174 elementor/cta/class.php:172
+msgid "Button Background Color"
+msgstr ""
+
+#: elementor/app-banner/class.php:194 elementor/cta/class.php:198
+msgid "Button background Color"
+msgstr ""
+
+#: elementor/app-banner/class.php:160 elementor/cta/class.php:158
+msgid "Button Colors"
+msgstr ""
+
+#: elementor/post/class.php:84
+msgid "Button Display"
+msgstr ""
+
+#: elementor/pricing-box/class.php:169
+msgid "Button Hover"
+msgstr ""
+
+#: elementor/listing-search/class.php:78
+msgid "Button Hover Background"
+msgstr ""
+
+#: elementor/pricing-box/class.php:102
+msgid "Button Link Type"
+msgstr ""
+
+#: elementor/cta/class.php:54 elementor/post/class.php:94
+#: elementor/pricing-box/class.php:96 elementor/text-button/class.php:70
+msgid "Button Text"
+msgstr ""
+
+#: elementor/app-banner/class.php:44
+msgid "Button Text 1"
+msgstr ""
+
+#: elementor/app-banner/class.php:56
+msgid "Button Text 2"
+msgstr ""
+
+#: elementor/app-banner/class.php:180 elementor/app-banner/class.php:200
+#: elementor/cta/class.php:181 elementor/cta/class.php:207
+msgid "Button Text Color"
+msgstr ""
+
+#: elementor/cta/class.php:146
+msgid "Button Typography"
+msgstr ""
+
+#: elementor/cta/class.php:60 elementor/pricing-box/class.php:112
+#: elementor/text-button/class.php:76
+msgid "Button URL"
+msgstr ""
+
+#: elementor/app-banner/class.php:50
+msgid "Button URL 1"
+msgstr ""
+
+#: elementor/app-banner/class.php:62
+msgid "Button URL 2"
+msgstr ""
+
+#: elementor/post/view-3.php:61
+msgid "By "
+msgstr ""
+
+#: elementor/cta/class.php:17
+msgid "Call to Action"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:80
+#: elementor/listing-category-box/class.php:62
+#: elementor/listing-category-slider/class.php:56
+#: elementor/listing-grid/class.php:78 elementor/listing-list/class.php:67
+#: elementor/listing-slider/class.php:89 elementor/post/class.php:50
+msgid "Categories"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:208
+#: elementor/listing-ad-type/class.php:242 elementor/listing-grid/class.php:263
+#: elementor/listing-grid/class.php:297 elementor/listing-isotope/class.php:191
+#: elementor/listing-isotope/class.php:225 elementor/listing-list/class.php:188
+#: elementor/listing-list/class.php:234 elementor/listing-slider/class.php:326
+#: elementor/listing-slider/class.php:360
+#: elementor/listing-term-list/class.php:80
+msgid "Category"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:96 elementor/listing-grid/class.php:94
+#: elementor/listing-isotope/class.php:79 elementor/listing-list/class.php:83
+#: elementor/listing-slider/class.php:105
+msgid "Category Name Display"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:127 elementor/listing-grid/class.php:160
+#: elementor/listing-isotope/class.php:110 elementor/listing-list/class.php:130
+#: elementor/listing-slider/class.php:162
+msgid "Change items on every page load"
+msgstr ""
+
+#. Name of the plugin
+msgid "Classima Core"
+msgstr ""
+
+#. Description of the plugin
+msgid "Classima Core Plugin for Classima Theme"
+msgstr ""
+
+#. Base ID
+#: widgets/about.php:18 widgets/about.php:19
+msgid "Classima: About"
+msgstr ""
+
+#: elementor/accordian/class.php:57 elementor/contact/class.php:62
+#: elementor/listing-ad-type/class.php:197
+#: elementor/listing-category-box/class.php:190
+#: elementor/listing-category-slider/class.php:182
+#: elementor/listing-grid/class.php:252 elementor/listing-isotope/class.php:180
+#: elementor/listing-list/class.php:177 elementor/listing-search/class.php:60
+#: elementor/listing-slider/class.php:315 elementor/post/class.php:107
+#: elementor/pricing-box/class.php:133
+msgid "Color"
+msgstr ""
+
+#: elementor/contact/class.php:17
+msgid "Contact"
+msgstr ""
+
+#: elementor/accordian/class.php:43 elementor/accordian/class.php:80
+#: elementor/accordian/class.php:103 elementor/info-box/class.php:81
+#: elementor/listing-category-box/class.php:207
+#: elementor/listing-category-box/class.php:238
+#: elementor/listing-list/class.php:206 elementor/listing-list/class.php:248
+#: elementor/post/class.php:137 elementor/post/class.php:168
+#: elementor/testimonial-1/class.php:54 elementor/testimonial-2/class.php:55
+#: elementor/text-button/class.php:44
+msgid "Content"
+msgstr ""
+
+#: elementor/info-box/class.php:127 elementor/testimonial-1/class.php:106
+#: elementor/testimonial-2/class.php:152 elementor/text-button/class.php:105
+msgid "Content Color"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:131
+#: elementor/listing-list/class.php:99 elementor/post/class.php:67
+msgid "Content Limit"
+msgstr ""
+
+#: elementor/app-banner/class.php:109 elementor/cta/class.php:99
+msgid "Content Max Width"
+msgstr ""
+
+#: elementor/info-box/class.php:141 elementor/testimonial-1/class.php:127
+#: elementor/testimonial-2/class.php:173 elementor/text-button/class.php:119
+msgid "Content Typography"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:75
+#: elementor/listing-category-slider/class.php:69
+msgid "Count"
+msgstr ""
+
+#: elementor/counter/class.php:17 elementor/listing-category-box/class.php:201
+#: elementor/listing-category-box/class.php:231
+#: elementor/listing-category-slider/class.php:193
+#: elementor/listing-category-slider/class.php:216
+#: elementor/listing-location-box/class.php:138
+#: elementor/listing-location-box/class.php:161
+#: elementor/listing-location-box-2/class.php:138
+#: elementor/listing-location-box-2/class.php:161
+#: elementor/listing-store-grid/class.php:120
+#: elementor/listing-store-grid/class.php:143
+#: elementor/listing-store-list/class.php:78
+#: elementor/listing-store-list/class.php:108
+msgid "Counter"
+msgstr ""
+
+#: elementor/counter/class.php:120
+msgid "Counter Color"
+msgstr ""
+
+#: elementor/counter/class.php:71
+msgid "Counter Number"
+msgstr ""
+
+#: elementor/counter/class.php:98
+msgid "Counter steps eg. 10"
+msgstr ""
+
+#: elementor/counter/class.php:77
+msgid "Counter Suffix"
+msgstr ""
+
+#: elementor/counter/class.php:133
+msgid "Counter Typography"
+msgstr ""
+
+#: elementor/pricing-box/class.php:65
+msgid "Currency sign eg. $"
+msgstr ""
+
+#: elementor/pricing-box/class.php:63
+msgid "Currency Symbol"
+msgstr ""
+
+#: elementor/listing-grid/class.php:71 elementor/listing-list/class.php:60
+#: elementor/listing-slider/class.php:82
+msgid "Custom"
+msgstr ""
+
+#: elementor/counter/class.php:50 elementor/info-box/class.php:54
+msgid "Custom Image"
+msgstr ""
+
+#: elementor/pricing-box/class.php:105
+msgid "Custom Link"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:76
+#: elementor/listing-category-slider/class.php:70
+msgid "Custom Order"
+msgstr ""
+
+#: inc/post-meta.php:48
+msgid "Custom Sidebar"
+msgstr ""
+
+#: elementor/counter/class.php:40
+#: elementor/listing-category-slider/class.php:49
+#: elementor/listing-search/class.php:36
+msgid "Dark Background"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:73
+#: elementor/listing-category-slider/class.php:67
+msgid "Date"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:137
+#: elementor/listing-isotope/class.php:120
+#: elementor/listing-slider/class.php:181
+msgid "Date (Recents comes first"
+msgstr ""
+
+#: elementor/listing-grid/class.php:179 elementor/listing-list/class.php:149
+#: elementor/listing-store-grid/class.php:50
+#: elementor/listing-store-list/class.php:41 elementor/post/class.php:59
+msgid "Date (Recents comes first)"
+msgstr ""
+
+#: inc/post-meta.php:27 inc/post-meta.php:28 inc/post-meta.php:40
+#: inc/post-meta.php:57 inc/post-meta.php:67 inc/post-meta.php:77
+#: inc/post-meta.php:89 inc/post-meta.php:99 inc/post-meta.php:109
+#: inc/post-meta.php:119
+msgid "Default"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:86
+#: elementor/listing-category-slider/class.php:80
+msgid "Descending"
+msgstr ""
+
+#: widgets/about.php:117
+msgid "Description"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:48 elementor/testimonial-2/class.php:49
+msgid "Designation"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:100 elementor/testimonial-2/class.php:146
+msgid "Designation Color"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:120 elementor/testimonial-2/class.php:166
+msgid "Designation Typography"
+msgstr ""
+
+#: elementor/listing-slider/class.php:213
+msgid "Desktops: > 1199px"
+msgstr ""
+
+#: elementor/listing-slider/class.php:220
+msgid "Desktops: > 991px"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:156
+#: elementor/listing-category-box/class.php:149
+#: elementor/listing-grid/class.php:211 elementor/listing-isotope/class.php:139
+#: elementor/listing-store-grid/class.php:68
+msgid "Desktops: >1199px"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:163
+#: elementor/listing-category-box/class.php:156
+#: elementor/listing-grid/class.php:218 elementor/listing-isotope/class.php:146
+#: elementor/listing-store-grid/class.php:75
+msgid "Desktops: >991px"
+msgstr ""
+
+#: inc/post-meta.php:59 inc/post-meta.php:69 inc/post-meta.php:91
+#: inc/post-meta.php:101
+msgid "Disable"
+msgstr ""
+
+#: inc/post-meta.php:111
+msgid "Disabled"
+msgstr ""
+
+#: elementor/listing-term-list/class.php:88
+msgid "Display Category image/icon"
+msgstr ""
+
+#: elementor/listing-term-list/class.php:105
+msgid "Display count for Category/Location"
+msgstr ""
+
+#: elementor/listing-grid/class.php:119 elementor/listing-slider/class.php:121
+msgid "Display Views"
+msgstr ""
+
+#: elementor/pricing-box/class.php:78
+msgid "eg. month or year. Keep empty if you don't want to show unit"
+msgstr ""
+
+#: elementor/contact/class.php:50
+msgid "Email"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:96 lib/sidebar-generator/init.php:143
+msgid "Empty nonce"
+msgstr ""
+
+#: inc/post-meta.php:58 inc/post-meta.php:68 inc/post-meta.php:90
+#: inc/post-meta.php:100
+msgid "Enable"
+msgstr ""
+
+#: elementor/listing-location-box/class.php:55
+#: elementor/listing-location-box-2/class.php:55
+msgid "Enable Link"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:129
+#: elementor/listing-slider/class.php:262 elementor/testimonial-2/class.php:82
+msgid "Enable or disable autoplay. Default: On"
+msgstr ""
+
+#: inc/post-meta.php:110
+msgid "Enabled"
+msgstr ""
+
+#: widgets/about.php:121
+msgid "Facebook URL"
+msgstr ""
+
+#: elementor/contact/class.php:44
+msgid "Fax"
+msgstr ""
+
+#: elementor/listing-grid/class.php:67 elementor/listing-isotope/class.php:68
+#: elementor/listing-isotope/class.php:325 elementor/listing-list/class.php:56
+#: elementor/listing-slider/class.php:78
+msgid "Featured"
+msgstr ""
+
+#: inc/post-meta.php:143 elementor/pricing-box/class.php:89
+#: elementor/pricing-box/class.php:157 elementor/pricing-box/class.php:199
+msgid "Features"
+msgstr ""
+
+#: inc/post-meta.php:149
+msgid "Features List"
+msgstr ""
+
+#: lib/wp-svg/init.php:133
+msgid "Full Size"
+msgstr ""
+
+#: inc/post-meta.php:41
+msgid "Full Width"
+msgstr ""
+
+#: elementor/accordian/class.php:27 elementor/app-banner/class.php:27
+#: elementor/contact/class.php:27 elementor/counter/class.php:32
+#: elementor/cta/class.php:27 elementor/google-map/class.php:27
+#: elementor/info-box/class.php:27 elementor/listing-ad-type/class.php:53
+#: elementor/listing-category-box/class.php:45
+#: elementor/listing-category-slider/class.php:41
+#: elementor/listing-grid/class.php:45 elementor/listing-isotope/class.php:49
+#: elementor/listing-list/class.php:35
+#: elementor/listing-location-box/class.php:36
+#: elementor/listing-location-box-2/class.php:36
+#: elementor/listing-search/class.php:28 elementor/listing-slider/class.php:51
+#: elementor/listing-store-grid/class.php:36
+#: elementor/listing-store-list/class.php:27
+#: elementor/listing-term-list/class.php:67 elementor/post/class.php:34
+#: elementor/pricing-box/class.php:48 elementor/testimonial-1/class.php:27
+#: elementor/testimonial-2/class.php:33 elementor/text-button/class.php:27
+#: elementor/title/class.php:27 elementor/title-animated/class.php:27
+msgid "General"
+msgstr ""
+
+#: elementor/app-banner/view.php:19 elementor/app-banner/view.php:27
+msgid "Get it on"
+msgstr ""
+
+#: elementor/google-map/class.php:17
+msgid "Google Map"
+msgstr ""
+
+#: elementor/google-map/class.php:32
+msgid "Google Map Code"
+msgstr ""
+
+#: widgets/about.php:129
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/post-meta.php:74
+msgid "Header Layout"
+msgstr ""
+
+#: elementor/google-map/class.php:39
+msgid "Height"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:97
+#: elementor/listing-category-slider/class.php:91
+msgid "Hide Categories that has no listings. Default: On"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:93
+#: elementor/listing-category-slider/class.php:87
+msgid "Hide Empty"
+msgstr ""
+
+#: elementor/listing-term-list/class.php:97
+msgid "Hide empty Category/Location"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:28 inc/demo-importer-ocdi.php:29
+#: inc/demo-importer.php:42
+msgid "Home 1"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:34 inc/demo-importer-ocdi.php:35
+#: inc/demo-importer.php:47
+msgid "Home 2"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:40 inc/demo-importer-ocdi.php:41
+#: inc/demo-importer.php:52
+msgid "Home 3"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:46 inc/demo-importer-ocdi.php:47
+#: inc/demo-importer.php:57
+msgid "Home 4"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:52 inc/demo-importer-ocdi.php:53
+#: inc/demo-importer.php:62
+msgid "Home 5"
+msgstr ""
+
+#: inc/demo-importer-ocdi.php:58 inc/demo-importer-ocdi.php:59
+#: inc/demo-importer.php:67
+msgid "Home 6"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr ""
+
+#: elementor/contact/class.php:67 elementor/counter/class.php:49
+#: elementor/counter/class.php:57 elementor/info-box/class.php:53
+#: elementor/info-box/class.php:61 elementor/listing-category-box/class.php:105
+#: elementor/listing-category-slider/class.php:99
+msgid "Icon"
+msgstr ""
+
+#: elementor/counter/class.php:114 elementor/info-box/class.php:109
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/counter/class.php:47 elementor/info-box/class.php:51
+#: elementor/listing-category-box/class.php:102
+#: elementor/listing-category-slider/class.php:96
+msgid "Icon Type"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:72
+#: elementor/listing-category-slider/class.php:66
+msgid "ID"
+msgstr ""
+
+#: inc/post-meta.php:128 inc/post-meta.php:133
+msgid "If not selected, default will be used"
+msgstr ""
+
+#: elementor/counter/class.php:64 elementor/info-box/class.php:68
+#: elementor/listing-category-box/class.php:104
+#: elementor/listing-category-slider/class.php:98
+#: elementor/text-button/class.php:32
+msgid "Image"
+msgstr ""
+
+#: elementor/info-box/class.php:17
+msgid "Info Box"
+msgstr ""
+
+#: widgets/about.php:141
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/demo-importer.php:27
+msgid "Install Demo Contents"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:99 lib/sidebar-generator/init.php:146
+msgid "Invalid nonce"
+msgstr ""
+
+#: elementor/accordian/class.php:62
+msgid "Item Background"
+msgstr ""
+
+#: elementor/listing-grid/class.php:64 elementor/listing-isotope/class.php:66
+#: elementor/listing-list/class.php:53 elementor/listing-slider/class.php:75
+msgid "Items to Show"
+msgstr ""
+
+#: lib/wp-svg/init.php:136
+msgid "Large"
+msgstr ""
+
+#: inc/post-meta.php:37
+msgid "Layout"
+msgstr ""
+
+#: inc/post-meta.php:78
+msgid "Layout 1"
+msgstr ""
+
+#: inc/post-meta.php:79
+msgid "Layout 2"
+msgstr ""
+
+#: inc/post-meta.php:80
+msgid "Layout 3"
+msgstr ""
+
+#: inc/post-meta.php:81
+msgid "Layout 4"
+msgstr ""
+
+#: inc/post-meta.php:30
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/post-meta.php:33
+msgid "Layouts"
+msgstr ""
+
+#: inc/post-meta.php:42
+msgid "Left Sidebar"
+msgstr ""
+
+#: elementor/counter/class.php:39
+#: elementor/listing-category-slider/class.php:48
+#: elementor/listing-search/class.php:35
+msgid "Light Background"
+msgstr ""
+
+#: elementor/info-box/class.php:87
+msgid "Link (Optional)"
+msgstr ""
+
+#: elementor/contact/class.php:79
+msgid "Link Hover"
+msgstr ""
+
+#: widgets/about.php:133
+msgid "Linkedin URL"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:19
+msgid "Listing Category Box"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:18
+msgid "Listing Category Slider"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:112
+#: elementor/listing-category-slider/class.php:106
+msgid "Listing Counts"
+msgstr ""
+
+#: elementor/listing-grid/class.php:19
+msgid "Listing Grid"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:119 elementor/listing-grid/class.php:152
+#: elementor/listing-isotope/class.php:102 elementor/listing-list/class.php:122
+#: elementor/listing-slider/class.php:154
+msgid "Listing ID's, seperated by commas"
+msgstr ""
+
+#: elementor/listing-isotope/class.php:18
+msgid "Listing Isotope"
+msgstr ""
+
+#: elementor/listing-list/class.php:18
+msgid "Listing List"
+msgstr ""
+
+#: elementor/listing-location-box/class.php:18
+msgid "Listing Location Box"
+msgstr ""
+
+#: elementor/listing-location-box-2/class.php:18
+msgid "Listing Location Box 2"
+msgstr ""
+
+#: elementor/listing-search/class.php:18
+msgid "Listing Search"
+msgstr ""
+
+#: elementor/listing-slider/class.php:18
+msgid "Listing Slider"
+msgstr ""
+
+#: elementor/listing-store-grid/class.php:17
+msgid "Listing Store Grid"
+msgstr ""
+
+#: elementor/listing-store-list/class.php:17
+msgid "Listing Store List"
+msgstr ""
+
+#: elementor/listing-term-list/class.php:57
+msgid "Listing Term List"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:20
+msgid "Listing Type Tab"
+msgstr ""
+
+#: elementor/listing-location-box/class.php:41
+#: elementor/listing-location-box-2/class.php:41
+#: elementor/listing-term-list/class.php:81
+msgid "Location"
+msgstr ""
+
+#: widgets/about.php:113
+msgid "Logo"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:167
+#: elementor/listing-slider/class.php:300 elementor/testimonial-2/class.php:120
+#: elementor/title-animated/class.php:96
+msgid "Loop"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:171
+#: elementor/listing-slider/class.php:304 elementor/testimonial-2/class.php:124
+msgid "Loop to first item. Default: On"
+msgstr ""
+
+#: elementor/listing-location-box/class.php:71
+#: elementor/listing-location-box-2/class.php:71
+msgid "Max Width"
+msgstr ""
+
+#: elementor/post/class.php:69
+msgid "Maximum number of words to display"
+msgstr ""
+
+#: lib/wp-svg/init.php:135
+msgid "Medium"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:220
+#: elementor/listing-ad-type/class.php:256 elementor/listing-grid/class.php:275
+#: elementor/listing-grid/class.php:311 elementor/listing-isotope/class.php:203
+#: elementor/listing-isotope/class.php:239 elementor/listing-list/class.php:212
+#: elementor/listing-list/class.php:255 elementor/listing-slider/class.php:338
+#: elementor/listing-slider/class.php:374 elementor/post/class.php:124
+#: elementor/post/class.php:161
+msgid "Meta"
+msgstr ""
+
+#: elementor/text-button/class.php:51
+msgid "Min Height"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:42 elementor/testimonial-2/class.php:43
+#: lib/sidebar-generator/init.php:49
+msgid "Name"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:94 elementor/testimonial-2/class.php:140
+msgid "Name Color"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:113 elementor/testimonial-2/class.php:159
+msgid "Name Typography"
+msgstr ""
+
+#: elementor/listing-grid/class.php:68 elementor/listing-isotope/class.php:69
+#: elementor/listing-isotope/class.php:326 elementor/listing-list/class.php:57
+#: elementor/listing-slider/class.php:79
+msgid "New"
+msgstr ""
+
+#: elementor/listing-ad-type/view.php:50 elementor/listing-isotope/view.php:50
+msgid "No Items Available"
+msgstr ""
+
+#: elementor/listing-category-box/view-3.php:19
+#: elementor/listing-location-box/view.php:10
+#, php-format
+msgctxt "Number of Ads"
+msgid "%s Ad"
+msgid_plural "%s Ads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/listing-store-grid/view.php:15
+#, php-format
+msgctxt "Number of Ads"
+msgid "%s ad"
+msgid_plural "%s ads"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/listing-location-box-2/view.php:10
+#, php-format
+msgctxt "Number of Ads"
+msgid "%s Ad Posted"
+msgid_plural "%s Ads Posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: elementor/listing-grid/class.php:136 elementor/listing-list/class.php:106
+#: elementor/listing-store-grid/class.php:41
+#: elementor/listing-store-list/class.php:32
+msgid "Number of Items"
+msgstr ""
+
+#: elementor/listing-isotope/class.php:95
+msgid "Number of Items per "
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:112
+msgid "Number of Items per Type"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:151
+#: elementor/listing-category-box/class.php:144
+#: elementor/listing-grid/class.php:206 elementor/listing-isotope/class.php:134
+#: elementor/listing-slider/class.php:208
+#: elementor/listing-store-grid/class.php:63
+msgid "Number of Responsive Columns"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:133
+#: elementor/listing-list/class.php:101
+msgid "Number of Words to display"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:121
+msgid "Numbers of sub-category"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:125
+msgid "Numbers of sub-category listed. Default: 3"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:98
+#: elementor/listing-ad-type/class.php:106
+#: elementor/listing-ad-type/class.php:129
+#: elementor/listing-category-box/class.php:95
+#: elementor/listing-category-box/class.php:114
+#: elementor/listing-category-slider/class.php:89
+#: elementor/listing-category-slider/class.php:108
+#: elementor/listing-category-slider/class.php:127
+#: elementor/listing-category-slider/class.php:136
+#: elementor/listing-category-slider/class.php:169
+#: elementor/listing-grid/class.php:96 elementor/listing-grid/class.php:113
+#: elementor/listing-grid/class.php:121 elementor/listing-grid/class.php:162
+#: elementor/listing-isotope/class.php:81
+#: elementor/listing-isotope/class.php:89
+#: elementor/listing-isotope/class.php:112 elementor/listing-list/class.php:85
+#: elementor/listing-list/class.php:93 elementor/listing-list/class.php:132
+#: elementor/listing-location-box/class.php:49
+#: elementor/listing-location-box/class.php:57
+#: elementor/listing-location-box-2/class.php:49
+#: elementor/listing-location-box-2/class.php:57
+#: elementor/listing-slider/class.php:107
+#: elementor/listing-slider/class.php:115
+#: elementor/listing-slider/class.php:123
+#: elementor/listing-slider/class.php:164
+#: elementor/listing-slider/class.php:260
+#: elementor/listing-slider/class.php:269
+#: elementor/listing-slider/class.php:302
+#: elementor/listing-term-list/class.php:90
+#: elementor/listing-term-list/class.php:99
+#: elementor/listing-term-list/class.php:107
+#: elementor/listing-term-list/class.php:115 elementor/post/class.php:77
+#: elementor/post/class.php:86 elementor/testimonial-2/class.php:80
+#: elementor/testimonial-2/class.php:89 elementor/testimonial-2/class.php:122
+#: elementor/title-animated/class.php:83 elementor/title-animated/class.php:98
+msgid "Off"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:97
+#: elementor/listing-ad-type/class.php:105
+#: elementor/listing-ad-type/class.php:128
+#: elementor/listing-category-box/class.php:94
+#: elementor/listing-category-box/class.php:113
+#: elementor/listing-category-slider/class.php:88
+#: elementor/listing-category-slider/class.php:107
+#: elementor/listing-category-slider/class.php:126
+#: elementor/listing-category-slider/class.php:135
+#: elementor/listing-category-slider/class.php:168
+#: elementor/listing-grid/class.php:95 elementor/listing-grid/class.php:112
+#: elementor/listing-grid/class.php:120 elementor/listing-grid/class.php:161
+#: elementor/listing-isotope/class.php:80
+#: elementor/listing-isotope/class.php:88
+#: elementor/listing-isotope/class.php:111 elementor/listing-list/class.php:84
+#: elementor/listing-list/class.php:92 elementor/listing-list/class.php:131
+#: elementor/listing-location-box/class.php:48
+#: elementor/listing-location-box/class.php:56
+#: elementor/listing-location-box-2/class.php:48
+#: elementor/listing-location-box-2/class.php:56
+#: elementor/listing-slider/class.php:106
+#: elementor/listing-slider/class.php:114
+#: elementor/listing-slider/class.php:122
+#: elementor/listing-slider/class.php:163
+#: elementor/listing-slider/class.php:259
+#: elementor/listing-slider/class.php:268
+#: elementor/listing-slider/class.php:301
+#: elementor/listing-term-list/class.php:89
+#: elementor/listing-term-list/class.php:98
+#: elementor/listing-term-list/class.php:106
+#: elementor/listing-term-list/class.php:114 elementor/post/class.php:76
+#: elementor/post/class.php:85 elementor/testimonial-2/class.php:79
+#: elementor/testimonial-2/class.php:88 elementor/testimonial-2/class.php:121
+#: elementor/title-animated/class.php:82 elementor/title-animated/class.php:97
+msgid "On"
+msgstr ""
+
+#: elementor/pricing-box/class.php:91
+msgid ""
+"One line per feature eg.<br/>10 Ads per month<br/>Featured on first week"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:80
+msgid "Operation failed"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:135
+#: elementor/listing-category-box/class.php:70
+#: elementor/listing-category-slider/class.php:64
+#: elementor/listing-grid/class.php:177 elementor/listing-isotope/class.php:118
+#: elementor/listing-list/class.php:147 elementor/listing-slider/class.php:179
+#: elementor/listing-store-grid/class.php:48
+#: elementor/listing-store-list/class.php:39 elementor/post/class.php:57
+msgid "Order By"
+msgstr ""
+
+#: elementor/app-banner/class.php:92 elementor/cta/class.php:79
+msgid "Padding"
+msgstr ""
+
+#: elementor/contact/class.php:38
+msgid "Phone"
+msgstr ""
+
+#: elementor/listing-slider/class.php:234
+msgid "Phones: < 768px"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:177
+#: elementor/listing-category-box/class.php:170
+#: elementor/listing-grid/class.php:232 elementor/listing-isotope/class.php:160
+#: elementor/listing-store-grid/class.php:89
+msgid "Phones: >575px"
+msgstr ""
+
+#: widgets/about.php:137
+msgid "Pinterest URL"
+msgstr ""
+
+#: elementor/listing-location-box/class.php:204
+#: elementor/listing-location-box-2/class.php:204
+msgid "Please Select a Location and Background"
+msgstr ""
+
+#: elementor/listing-grid/class.php:69 elementor/listing-isotope/class.php:70
+#: elementor/listing-isotope/class.php:327 elementor/listing-list/class.php:58
+#: elementor/listing-slider/class.php:80
+msgid "Popular"
+msgstr ""
+
+#: elementor/post/class.php:17
+msgid "Post"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:226
+#: elementor/listing-ad-type/class.php:263 elementor/listing-grid/class.php:281
+#: elementor/listing-grid/class.php:318 elementor/listing-isotope/class.php:209
+#: elementor/listing-isotope/class.php:246 elementor/listing-list/class.php:218
+#: elementor/listing-list/class.php:262 elementor/listing-slider/class.php:344
+#: elementor/listing-slider/class.php:381 elementor/pricing-box/class.php:70
+#: elementor/pricing-box/class.php:151 elementor/pricing-box/class.php:192
+msgid "Price"
+msgstr ""
+
+#: elementor/pricing-box/class.php:17
+msgid "Pricing Box"
+msgstr ""
+
+#: elementor/pricing-box/class.php:104
+msgid "Pricing Page Link"
+msgstr ""
+
+#: elementor/counter/class.php:78
+msgid "Put any text or symbol after Counter Number eg. +"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:122 elementor/listing-grid/class.php:155
+#: elementor/listing-isotope/class.php:105 elementor/listing-list/class.php:125
+#: elementor/listing-slider/class.php:157
+msgid "Put the comma seperated ID's here eg. 23,26,89"
+msgstr ""
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr ""
+
+#: elementor/init.php:96
+msgid "RadiusTheme Elements"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:60
+msgid "Rating"
+msgstr ""
+
+#: elementor/info-box/class.php:70
+msgid ""
+"Recommended image size is 160x160 px.<br/>You can upload SVG format as well, "
+"to get SVG images click here: <a target=\"_blank\" href=\"https://www."
+"flaticon.com/\">flaticon.com</a>"
+msgstr ""
+
+#: elementor/counter/class.php:66
+msgid ""
+"Recommended image size is 94x94 px.<br/>You can upload SVG format as well, "
+"to get SVG images click here: <a target=\"_blank\" href=\"https://www."
+"flaticon.com/\">flaticon.com</a>"
+msgstr ""
+
+#: inc/post-meta.php:43
+msgid "Right Sidebar"
+msgstr ""
+
+#: widgets/about.php:149
+msgid "Rss Feed URL"
+msgstr ""
+
+#: elementor/counter/class.php:84
+msgid "Satisfied Customers"
+msgstr ""
+
+#: elementor/listing-slider/class.php:69 elementor/title/class.php:17
+msgid "Section Title"
+msgstr ""
+
+#: elementor/title-animated/class.php:17
+msgid "Section Title(Animated)"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:72
+msgid "Select Listing Type"
+msgstr ""
+
+#: elementor/pricing-box/class.php:119
+msgid "Select Pricing"
+msgstr ""
+
+#: elementor/cta/class.php:32 elementor/info-box/class.php:32
+#: elementor/testimonial-1/class.php:32
+msgid "Select Style"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:153
+#: elementor/listing-slider/class.php:286 elementor/testimonial-2/class.php:106
+msgid ""
+"Set any value for example 5 seconds to play it in every 5 seconds. Default: "
+"5 Seconds"
+msgstr ""
+
+#: inc/social-share.php:57
+msgid "Share"
+msgstr ""
+
+#: elementor/title-animated/class.php:81
+msgid "Show Cursor"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:104 elementor/listing-grid/class.php:111
+#: elementor/listing-isotope/class.php:87 elementor/listing-list/class.php:91
+#: elementor/listing-slider/class.php:113
+msgid "Show Custom Fields"
+msgstr ""
+
+#: elementor/listing-location-box/class.php:47
+#: elementor/listing-location-box-2/class.php:47
+msgid "Show Listing Counts"
+msgstr ""
+
+#: elementor/post/class.php:79
+msgid "Show or hide author name"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:116
+#: elementor/listing-category-slider/class.php:110
+msgid "Show or Hide Listing Counts. Default: On"
+msgstr ""
+
+#: elementor/post/class.php:88
+msgid "Show or hide view-all button"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:140
+msgid "Sidebar ID not found"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:93
+msgid "Sidebar name can't be empty"
+msgstr ""
+
+#: lib/sidebar-generator/init.php:106
+msgid ""
+"Sidebar with the same name already exists. Please choose a different name"
+msgstr ""
+
+#: elementor/listing-store-list/view.php:19
+#, php-format
+msgid "Since %s"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:161
+#: elementor/listing-slider/class.php:294 elementor/testimonial-2/class.php:114
+msgid "Slide speed in milliseconds. Default: 200"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:120
+#: elementor/listing-slider/class.php:253 elementor/testimonial-2/class.php:73
+msgid "Slider Options"
+msgstr ""
+
+#: elementor/listing-slider/class.php:241
+msgid "Small Phones: < 480px"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:184
+#: elementor/listing-category-box/class.php:177
+#: elementor/listing-grid/class.php:239 elementor/listing-isotope/class.php:167
+#: elementor/listing-store-grid/class.php:96
+msgid "Small Phones: <576px"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:83
+#: elementor/listing-category-slider/class.php:77
+msgid "Sort By"
+msgstr ""
+
+#: elementor/title-animated/class.php:89
+msgid "Speed"
+msgstr ""
+
+#: elementor/title-animated/class.php:91
+msgid "Speed in milliseconds"
+msgstr ""
+
+#: elementor/listing-category-box/class.php:65
+#: elementor/listing-category-slider/class.php:59
+msgid ""
+"Start typing category names. If empty then all parent categories will be "
+"displayed"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:138
+#: elementor/listing-slider/class.php:271 elementor/testimonial-2/class.php:91
+msgid "Stop autoplay on mouse hover. Default: On"
+msgstr ""
+
+#: elementor/listing-category-slider/class.php:134
+#: elementor/listing-slider/class.php:267 elementor/testimonial-2/class.php:87
+msgid "Stop on Hover"
+msgstr ""
+
+#: elementor/app-banner/class.php:85 elementor/counter/class.php:109
+#: elementor/cta/class.php:72 elementor/info-box/class.php:98
+#: elementor/listing-ad-type/class.php:58
+#: elementor/listing-category-box/class.php:50
+#: elementor/listing-grid/class.php:50 elementor/listing-isotope/class.php:54
+#: elementor/listing-list/class.php:40
+#: elementor/listing-location-box/class.php:121
+#: elementor/listing-location-box-2/class.php:121
+#: elementor/listing-search/class.php:43 elementor/listing-slider/class.php:56
+#: elementor/listing-store-grid/class.php:109
+#: elementor/listing-store-list/class.php:55 elementor/post/class.php:39
+#: elementor/pricing-box/class.php:53 elementor/testimonial-1/class.php:89
+#: elementor/testimonial-2/class.php:135 elementor/text-button/class.php:88
+#: elementor/title/class.php:32 elementor/title/class.php:63
+#: elementor/title-animated/class.php:110
+msgid "Style"
+msgstr ""
+
+#: elementor/cta/class.php:34 elementor/info-box/class.php:34
+#: elementor/listing-ad-type/class.php:60
+#: elementor/listing-category-box/class.php:52
+#: elementor/listing-grid/class.php:52 elementor/listing-isotope/class.php:56
+#: elementor/listing-list/class.php:42 elementor/listing-search/class.php:45
+#: elementor/listing-slider/class.php:58 elementor/post/class.php:41
+#: elementor/pricing-box/class.php:55 elementor/testimonial-1/class.php:34
+#: elementor/title/class.php:34
+msgid "Style 1"
+msgstr ""
+
+#: elementor/cta/class.php:35 elementor/info-box/class.php:35
+#: elementor/listing-ad-type/class.php:61
+#: elementor/listing-category-box/class.php:53
+#: elementor/listing-grid/class.php:53 elementor/listing-isotope/class.php:57
+#: elementor/listing-list/class.php:43 elementor/listing-search/class.php:46
+#: elementor/listing-slider/class.php:59 elementor/post/class.php:42
+#: elementor/pricing-box/class.php:56 elementor/testimonial-1/class.php:35
+#: elementor/title/class.php:35
+msgid "Style 2"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:62
+#: elementor/listing-category-box/class.php:54
+#: elementor/listing-grid/class.php:54 elementor/listing-isotope/class.php:58
+#: elementor/listing-list/class.php:44 elementor/listing-slider/class.php:60
+#: elementor/post/class.php:43 elementor/title/class.php:36
+msgid "Style 3"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:63
+#: elementor/listing-category-box/class.php:55
+#: elementor/listing-grid/class.php:55 elementor/listing-isotope/class.php:59
+#: elementor/listing-list/class.php:45 elementor/listing-slider/class.php:61
+#: elementor/title/class.php:37
+msgid "Style 4"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:64 elementor/listing-grid/class.php:56
+#: elementor/listing-list/class.php:46 elementor/listing-slider/class.php:62
+msgid "Style 5"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:65 elementor/listing-grid/class.php:57
+msgid "Style 6"
+msgstr ""
+
+#: elementor/app-banner/class.php:38 elementor/cta/class.php:48
+#: elementor/title/class.php:50 elementor/title-animated/class.php:45
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/app-banner/class.php:134 elementor/cta/class.php:125
+#: elementor/title/class.php:74 elementor/title-animated/class.php:121
+msgid "Subtitle Color"
+msgstr ""
+
+#: elementor/app-banner/class.php:148 elementor/cta/class.php:139
+#: elementor/title/class.php:89 elementor/title-animated/class.php:135
+msgid "Subtitle Typography"
+msgstr ""
+
+#: elementor/listing-slider/class.php:227
+msgid "Tablets: > 767px"
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:170
+#: elementor/listing-category-box/class.php:163
+#: elementor/listing-grid/class.php:225 elementor/listing-isotope/class.php:153
+#: elementor/listing-store-grid/class.php:82
+msgid "Tablets: >767px"
+msgstr ""
+
+#: elementor/listing-term-list/class.php:78
+msgid "Term Type"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:17
+msgid "Testimonial 1"
+msgstr ""
+
+#: elementor/testimonial-2/class.php:17
+msgid "Testimonial 2"
+msgstr ""
+
+#: elementor/contact/class.php:95 elementor/listing-search/class.php:65
+#: elementor/listing-search/class.php:94
+msgid "Text"
+msgstr ""
+
+#: elementor/text-button/class.php:93
+msgid "Text Background Color"
+msgstr ""
+
+#: elementor/text-button/class.php:17
+msgid "Text With Button"
+msgstr ""
+
+#: elementor/contact/class.php:73
+msgid "Text/Link"
+msgstr ""
+
+#: elementor/counter/class.php:91
+msgid "The total duration of the count animation in milisecond eg. 1000"
+msgstr ""
+
+#: elementor/counter/class.php:37
+#: elementor/listing-category-slider/class.php:46
+#: elementor/listing-search/class.php:33
+msgid "Theme"
+msgstr ""
+
+#: elementor/testimonial-1/class.php:78 elementor/testimonial-2/class.php:61
+#: lib/wp-svg/init.php:134
+msgid "Thumbnail"
+msgstr ""
+
+#: elementor/listing-store-list/class.php:72
+#: elementor/listing-store-list/class.php:101
+msgid "Time"
+msgstr ""
+
+#: widgets/about.php:109 elementor/accordian/class.php:37
+#: elementor/accordian/class.php:74 elementor/accordian/class.php:96
+#: elementor/app-banner/class.php:32 elementor/counter/class.php:83
+#: elementor/cta/class.php:42 elementor/info-box/class.php:75
+#: elementor/listing-ad-type/class.php:138
+#: elementor/listing-ad-type/class.php:214
+#: elementor/listing-ad-type/class.php:249
+#: elementor/listing-category-box/class.php:74
+#: elementor/listing-category-box/class.php:195
+#: elementor/listing-category-box/class.php:224
+#: elementor/listing-category-slider/class.php:68
+#: elementor/listing-category-slider/class.php:187
+#: elementor/listing-category-slider/class.php:209
+#: elementor/listing-grid/class.php:180 elementor/listing-grid/class.php:269
+#: elementor/listing-grid/class.php:304 elementor/listing-isotope/class.php:121
+#: elementor/listing-isotope/class.php:197
+#: elementor/listing-isotope/class.php:232 elementor/listing-list/class.php:150
+#: elementor/listing-list/class.php:194 elementor/listing-list/class.php:241
+#: elementor/listing-location-box/class.php:126
+#: elementor/listing-location-box/class.php:154
+#: elementor/listing-location-box-2/class.php:126
+#: elementor/listing-location-box-2/class.php:154
+#: elementor/listing-slider/class.php:182
+#: elementor/listing-slider/class.php:332
+#: elementor/listing-slider/class.php:367
+#: elementor/listing-store-grid/class.php:51
+#: elementor/listing-store-grid/class.php:114
+#: elementor/listing-store-grid/class.php:136
+#: elementor/listing-store-list/class.php:42
+#: elementor/listing-store-list/class.php:60
+#: elementor/listing-store-list/class.php:94
+#: elementor/listing-term-list/class.php:72 elementor/post/class.php:60
+#: elementor/post/class.php:118 elementor/post/class.php:154
+#: elementor/pricing-box/class.php:83 elementor/pricing-box/class.php:145
+#: elementor/pricing-box/class.php:185 elementor/text-button/class.php:38
+#: elementor/title/class.php:44 elementor/title-animated/class.php:37
+msgid "Title"
+msgstr ""
+
+#: elementor/app-banner/class.php:128 elementor/counter/class.php:126
+#: elementor/cta/class.php:119 elementor/info-box/class.php:115
+#: elementor/text-button/class.php:99 elementor/title/class.php:68
+#: elementor/title-animated/class.php:115
+msgid "Title Color"
+msgstr ""
+
+#: elementor/listing-list/class.php:200
+#: elementor/listing-location-box/class.php:132
+#: elementor/listing-location-box-2/class.php:132
+#: elementor/listing-store-list/class.php:66
+msgid "Title Hover"
+msgstr ""
+
+#: elementor/info-box/class.php:121
+msgid "Title Hover Color"
+msgstr ""
+
+#: elementor/app-banner/class.php:141 elementor/counter/class.php:140
+#: elementor/cta/class.php:132 elementor/info-box/class.php:134
+#: elementor/text-button/class.php:112 elementor/title/class.php:82
+#: elementor/title-animated/class.php:128
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/title-animated/class.php:32
+msgid "Titles"
+msgstr ""
+
+#: elementor/google-map/class.php:34
+#, php-format
+msgid ""
+"To create your own google map, follow the steps below:<br/>Step 1: Visit "
+"%s<br/>Step 2: Search for a location using the search bar of the top-left "
+"corner<br/>Step 3: After you find the location, click on the \"Share\" icon "
+"from the left panel<br/>Step 4: A popup will come up. From there go to the "
+"\"Embed map\" tab. You will find your Google Map code. Copy and paste this "
+"code in here"
+msgstr ""
+
+#: elementor/listing-grid/class.php:70 elementor/listing-isotope/class.php:71
+#: elementor/listing-isotope/class.php:328 elementor/listing-list/class.php:59
+#: elementor/listing-slider/class.php:81
+msgid "Top"
+msgstr ""
+
+#: inc/post-meta.php:64
+msgid "Top Bar"
+msgstr ""
+
+#: elementor/listing-slider/class.php:138
+msgid "Total Number of Items"
+msgstr ""
+
+#: inc/post-meta.php:54
+msgid "Transparent Header"
+msgstr ""
+
+#: widgets/about.php:125
+msgid "Twitter URL"
+msgstr ""
+
+#: elementor/accordian/class.php:90 elementor/contact/class.php:89
+#: elementor/listing-ad-type/class.php:236
+#: elementor/listing-category-box/class.php:218
+#: elementor/listing-category-slider/class.php:203
+#: elementor/listing-grid/class.php:291 elementor/listing-isotope/class.php:219
+#: elementor/listing-list/class.php:228
+#: elementor/listing-location-box/class.php:148
+#: elementor/listing-location-box-2/class.php:148
+#: elementor/listing-search/class.php:88 elementor/listing-slider/class.php:354
+#: elementor/listing-store-grid/class.php:130
+#: elementor/listing-store-list/class.php:88 elementor/post/class.php:148
+#: elementor/pricing-box/class.php:179
+msgid "Typography"
+msgstr ""
+
+#: elementor/pricing-box/class.php:76
+msgid "Unit Name"
+msgstr ""
+
+#: elementor/post/class.php:95
+msgid "VIEW ALL"
+msgstr ""
+
+#: inc/demo-importer.php:34
+msgid ""
+"Warning: All your old data will be lost if you install One Click demo data "
+"from here, so it is suitable only for a new website."
+msgstr ""
+
+#: elementor/listing-ad-type/class.php:114 elementor/listing-grid/class.php:138
+#: elementor/listing-isotope/class.php:97 elementor/listing-list/class.php:108
+#: elementor/listing-slider/class.php:140
+#: elementor/listing-store-grid/class.php:43
+#: elementor/listing-store-list/class.php:34
+msgid "Write -1 to show all"
+msgstr ""
+
+#: inc/post-meta.php:152
+msgid "Write a feature in each line eg. <br/>Feature 1<br/>Feature 2<br/>..."
+msgstr ""
+
+#: widgets/about.php:145
+msgid "YouTube URL"
+msgstr ""

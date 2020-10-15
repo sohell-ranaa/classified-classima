@@ -1,0 +1,46 @@
+@import "../../assets/css/store.css";
+
+.rtcl .rtcl-hidden {
+    display: none;
+}
+
+.rtcl .rtcl-hide {
+    display: none;
+}
+
+.rtcl .form-group > label {
+    font-weight: bold;
+}
+
+.rtcl .rtcl-membership-promotions .rtcl-promotion-item {
+    display: flex;
+}
+
+.rtcl .rtcl-membership-promotions .rtcl-promotion-item label {
+    flex: 0 0 80px;
+    font-weight: bold !important;
+}
+
+.rtcl .rtcl-membership-promotions .rtcl-promotion-item + .rtcl-promotion-item {
+    margin-top: 15px;
+}
+
+.rtcl .rtcl-membership-promotions .rtcl-promotion-item .rtcl-promotion-action {
+    display: flex;
+    justify-content: space-between;
+    flex: 0 0 156px;
+}
+
+.rtcl .rtcl-membership-promotions .rtcl-promotion-item .rtcl-promotion-action * {
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.rtcl .rtcl-membership-promotions .rtcl-promotion-item .rtcl-promotion-action span {
+    font-weight: bold;
+}
+
+.rtcl .rtcl-membership-promotions .rtcl-promotion-item .rtcl-promotion-action input {
+    max-width: 75px;
+}

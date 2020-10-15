@@ -1,0 +1,557 @@
+/* RTCL GALLERY */
+#rtcl-gallery-upload-ui-wrapper .moxie-shim.moxie-shim-html5 {
+  cursor: pointer;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery {
+  width: 100%;
+  height: 130px;
+  border: 1px solid #e5e5e5;
+  background-color: #fcfcfc;
+  padding: 0 0 20px 0;
+  opacity: 0.7;
+  z-index: 0;
+  text-align: center;
+  line-height: 100%;
+  font-weight: bold;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery p {
+  font-size: 1.3em;
+  font-weight: normal;
+  margin: 20px 0 20px;
+  padding: 0;
+  color: gray;
+  box-sizing: border-box;
+}
+
+#rtcl-gallery-upload-ui-wrapper.drag-over .rtcl-drag-drop-area {
+  position: absolute !important;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 130px;
+  opacity: 1;
+  z-index: 5;
+  box-sizing: border-box;
+}
+
+#rtcl-gallery-upload-ui-wrapper.drag-over .rtcl-gallery {
+  opacity: 0.7;
+  background: rgba(0, 0, 0, 0.9);
+  border: 4px dashed white;
+}
+
+#rtcl-gallery-upload-ui-wrapper.drag-over .rtcl-gallery .rtcl-gallery-browse-button {
+  display: none;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads {
+  overflow: hidden;
+  padding: 0 3px 3px 3px !important;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item {
+  background-color: #fff;
+  width: 150px;
+  height: 105px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+  -webkit-transition: height 0.1s ease-in-out, margin 0.1s ease-in-out;
+  transition: height 0.1s ease-in-out, margin 0.1s ease-in-out;
+  position: relative;
+  float: left;
+  margin: 10px 10px 0 0;
+  overflow: hidden;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item .rtcl-gallery-upload-item-img {
+  width: 150px;
+  border-radius: 0px !important;
+  box-shadow: none !important;
+  border: none !important;
+  cursor: move;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item a {
+  display: inline-block;
+  overflow: hidden;
+  padding: 0;
+  margin: 0 0 0 2px;
+  width: 30px;
+  height: 28px;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item a.rtcl-button-remove {
+  color: red;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item .rtcl-gallery-item-features {
+  position: absolute;
+  top: 3px;
+  right: 3px;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item .rtcl-gallery-item-features .rtcl-gallery-item-feature {
+  color: white;
+  padding: 3px 3px;
+  background: rgba(0, 0, 0, 0.075);
+  display: block;
+  float: left;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item .rtcl-gallery-upload-actions {
+  position: absolute;
+  display: none;
+  margin: 0;
+  padding: 0;
+  height: 30px;
+  bottom: 3px;
+  right: 3px;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item .rtcl-gallery-upload-actions .rtcl-icon-spinner {
+  vertical-align: top;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item .rtcl-gallery-upload-update {
+  width: 100%;
+  height: 105px;
+  text-align: center;
+  position: absolute;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item .rtcl-gallery-upload-update .rtcl-icon-spinner {
+  font-size: 64px;
+  line-height: 105px;
+}
+
+#rtcl-gallery-upload-ui-wrapper .rtcl-gallery-uploads .rtcl-gallery-upload-item:hover .rtcl-gallery-upload-actions {
+  display: block;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#rtcl-gallery-upload-ui-wrapper .description {
+  margin-top: 15px;
+}
+
+.rtcl-form-aligned .rtcl-plupload-upload-ui {
+  width: 60%;
+  float: left;
+}
+
+.rtcl-update-description-success {
+  font-size: 20px;
+  line-height: 28px;
+  display: none;
+}
+
+.rtcl-form input[type=number].rtcl-image-scale-width,
+.rtcl-form input[type=number].rtcl-image-scale-height {
+  margin: 0;
+}
+
+.rtcl-gallery-upload-failed {
+  font-size: 10px;
+  line-height: 12px;
+  overflow: hidden;
+  display: inline-block;
+  padding: 0 2px 0 2px;
+}
+
+.rtcl-gallery-upload-update.rtcl-icon-attention {
+  cursor: pointer;
+}
+
+.rtcl-gallery-upload-update.rtcl-icon-attention::before {
+  display: block;
+  font-size: 42px;
+  color: red;
+  margin: 10px auto 0;
+}
+
+.wprtcl-overlay {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 160000;
+  display: block;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.wprtcl-overlay.show {
+  display: block;
+}
+
+.wprtcl-overlay h2 {
+  font-size: 22px;
+}
+
+.wprtcl-overlay p {
+  margin: 5px 0 25px 0;
+}
+
+.wprtcl-overlay input[type=radio] {
+  display: inline !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.wprtcl-overlay > .wprtcl-overlay-body {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  right: 30px;
+  bottom: 30px;
+  overflow: hidden;
+  margin: auto;
+  box-sizing: border-box;
+  background-color: #fff;
+  border: 1px solid silver;
+  padding: 0;
+}
+
+.wprtcl-overlay .wprtcl-overlay-header {
+  clear: both;
+  margin: 0;
+  background: #fcfcfc;
+  border-bottom: 1px solid #ddd;
+  padding: 0 0 0 0;
+  height: 50px;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+          justify-content: space-between;
+}
+
+.wprtcl-overlay .wprtcl-overlay-header .wprtcl-overlay-title {
+  padding: 0 16px;
+  font-size: 22px;
+  line-height: 50px;
+  margin: 0;
+  -webkit-box-flex: 1;
+          flex: 1;
+}
+
+.wprtcl-attachment-media-view {
+  float: left;
+  width: 65%;
+  height: 100%;
+}
+
+.wprtcl-overlay-buttons {
+  display: -webkit-box;
+  display: flex;
+}
+
+.wprtcl-overlay-buttons .wprtcl-overlay-button {
+  cursor: pointer;
+  color: #72777c;
+  background-color: transparent;
+  height: 50px;
+  width: 50px;
+  padding: 0;
+  line-height: 50px;
+  font-size: 20px;
+  text-align: center;
+  border: 0;
+  border-left: 1px solid #ddd;
+  -webkit-transition: color .1s ease-in-out, background .1s ease-in-out;
+  transition: color .1s ease-in-out, background .1s ease-in-out;
+  display: inline-block;
+  text-decoration: none !important;
+}
+
+.wprtcl-overlay-buttons .wprtcl-overlay-button.wprtcl-navi-disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.wprtcl-overlay-buttons .wprtcl-overlay-button:not(.wprtcl-navi-disabled):hover {
+  background: #ddd none repeat scroll 0 0;
+  border-color: #ccc;
+  color: #000;
+}
+
+@media (max-width: 767px) {
+  .wprtcl-overlay-buttons .wprtcl-overlay-button.rtcl-icon-left-open, .wprtcl-overlay-buttons .wprtcl-overlay-button.rtcl-icon-right-open {
+    display: none;
+  }
+  .wprtcl-overlay-buttons .wprtcl-overlay-button.wprtcl-overlay-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+  }
+}
+
+.wprtcl-attachment-info {
+  overflow: auto;
+  box-sizing: border-box;
+  margin-bottom: 0;
+  padding: 12px 16px 0;
+  width: 35%;
+  height: 100%;
+  box-shadow: inset 0 4px 4px -4px rgba(0, 0, 0, 0.1);
+  border-bottom: 0;
+  border-left: 1px solid #ddd;
+  background: #f3f3f3;
+}
+
+.wprtcl-overlay .rtcl-form-aligned .rtcl-control-group > label {
+  width: 100%;
+  font-weight: bold;
+  margin: 6px 0 6px 0;
+}
+
+.wprtcl-overlay input[type="text"],
+.wprtcl-overlay textarea {
+  width: 100%;
+}
+
+.wprtcl-attachment-details {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.rtcl-form.rtcl-form-aligned .rtcl-control-group.wprtcl-file-browser-video-actions > div {
+  width: 100%;
+  padding: 0;
+  height: 38px;
+}
+
+.wprtcl-overlay .wprtcl-attachment-info .details {
+  position: relative;
+  overflow: hidden;
+  float: none;
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #ddd;
+  font-size: 12px;
+  max-width: 100%;
+  line-height: 18px;
+  color: #666;
+}
+
+.wprtcl-attachment-other,
+.wprtcl-attachment-image {
+  padding: 25px;
+  text-align: center;
+  position: relative;
+  height: inherit;
+}
+
+.rtcl-gallery-upload-item-file {
+  display: block;
+  width: 100%;
+  height: 105px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.rtcl-gallery-upload-item-file .rtcl-gallery-upload-item-file-icon {
+  font-size: 74px;
+  line-height: 94px;
+}
+
+.rtcl-gallery-upload-item-file .rtcl-gallery-upload-item-file-name {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: white;
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  right: 0;
+  padding: 1px 6px;
+}
+
+.rtcl-image-missing {
+  text-align: center;
+}
+
+.rtcl-image-preview {
+  padding: 25px;
+}
+
+.rtcl-image-preview > img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.rtcl-image-action-scale {
+  vertical-align: middle;
+}
+
+.wprtcl-image-apply-to {
+  padding: 0;
+  margin: 1em 0 0 0;
+}
+
+.wprtcl-image-apply-to > label {
+  float: none !important;
+}
+
+.wprtcl-file-browser-video {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.wprtcl-attachment-icon-big-wrap {
+  margin: 0 0 2em 0;
+}
+
+.wprtcl-attachment-icon-big-wrap .wprtcl-attachment-icon-big {
+  font-size: 128px;
+  opacity: 0.35;
+}
+
+.wprtcl-file-preview {
+  margin-top: 15px;
+  padding-top: 15px;
+  border-top: 1px solid #ddd;
+  clear: both;
+  overflow: hidden;
+}
+
+.wprtcl-file-preview .wprtcl-image-sizes {
+  background: white;
+  border: 1px solid silver;
+  width: 100%;
+}
+
+.wprtcl-file-size-explain {
+  font-size: 12px;
+  max-width: 100%;
+  line-height: 18px;
+  color: #666;
+}
+
+.rtcl-image-scale-width,
+.rtcl-image-scale-height {
+  width: 70px !important;
+  height: 30px;
+  box-sizing: border-box !important;
+  border-radius: 1px;
+}
+
+.wprtcl-file-error {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  right: 30px;
+  bottom: 30px;
+  overflow: hidden;
+  margin: auto;
+  box-sizing: border-box;
+  background-color: #fff;
+  border: 1px solid silver;
+  padding: 0;
+  z-index: 170000;
+}
+
+.wprtcl-file-error > div {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  width: 100%;
+}
+
+.wprtcl-image-edit-spinner {
+  font-size: 24px;
+  vertical-align: middle;
+}
+
+.wprtcl-file-browser-image-actions {
+  padding: 5px 0 5px 0;
+}
+
+.rtcl-browser-admin.wprtcl-overlay .rtcl-form-aligned .rtcl-control-group > label {
+  display: block;
+}
+
+.rtcl-browser-admin.wprtcl-overlay .rtcl-form-aligned .rtcl-control-group > label.inline-block {
+  display: inline-block;
+  font-size: inherit;
+  font-weight: normal;
+  width: auto;
+}
+
+.rtcl-browser-admin .rtcl-gallery {
+  border: 4px dashed #e5e5e5;
+}
+
+.rtcl-browser-admin .rtcl-gallery > p {
+  font-size: 22px;
+}
+
+.rtcl-browser-admin .rtcl-gallery .rtcl-gallery-browse-button {
+  height: auto;
+}
+
+.rtcl-browser-admin .rtcl-gallery-uploads .rtcl-gallery-upload-item a {
+  text-align: center;
+  font-size: 16px;
+}
+
+.rtcl-browser-admin.drag-over .rtcl-gallery {
+  background: rgba(0, 0, 0, 0.65);
+  border: 4px dashed white;
+}
+
+.rtcl-browser-admin.drag-over .rtcl-gallery > p {
+  color: white;
+}
+
+.rtcl-browser-admin .rtcl-form fieldset {
+  margin: 0;
+  padding: 0.35em 0 0.75em;
+  border: 0;
+}
+
+@media (max-width: 420px) {
+  .wprtcl-overlay > .wprtcl-overlay-body {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: scroll;
+  }
+  .wprtcl-attachment-media-view {
+    width: 100%;
+    height: auto;
+  }
+  .wprtcl-attachment-info {
+    width: 100%;
+  }
+  .rtcl-gallery-upload-actions {
+    display: block;
+  }
+  .wprtcl-attachment-media-image-editor {
+    height: 350px;
+  }
+  .rtcl-image-preview,
+  .wprtcl-attachment-media-image-editor .wprtcl-attachment-image {
+    padding: 5px;
+  }
+  .rtcl-form input[type="number"].rtcl-image-scale-width,
+  .rtcl-form input[type="number"].rtcl-image-scale-height {
+    padding: 6px;
+    margin: 0;
+    display: inline-block;
+  }
+}
